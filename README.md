@@ -1,75 +1,74 @@
 # RXKING 👑
 
 <p align="center">
-  <b>Building the future through Web3 innovation.</b>
+  <b>RXKING — Building the next generation of decentralized innovation.</b>
 </p>
 
 ---
 
 ## 🚀 Overview
 
-RXKING is an open-source Web3 project focused on exploring blockchain technology, decentralized applications, and community-driven innovation.
+RXKING is an open-source Web3 project focused on blockchain technology, decentralized applications, and community-driven innovation.
 
-The project aims to create transparent, scalable, and user-focused solutions powered by blockchain.
+The mission of RXKING is to explore transparent, scalable, and user-focused solutions powered by decentralized technology.
 
 ---
 
 ## ✨ Features
 
 - 🔗 Blockchain-based ecosystem
-- 🌐 Decentralized technology exploration
+- 🌐 Decentralized technology solutions
 - 🔒 Transparent and secure architecture
 - 👥 Community-driven development
-- 🚀 Open-source contribution
+- 🚀 Open-source innovation
 
 ---
 
-## 🛠 Technology
+## 🛠 Technology Stack
 
-RXKING explores:
+RXKING explores modern Web3 technologies:
 
-- Blockchain
-- Smart Contracts
-- Web3 Applications
+- Blockchain Technology
+- Smart Contract Development
+- Web3 Applications (dApps)
 - Decentralized Infrastructure
+- Open-source Development
 
 ---
 
 ## 🗺 Roadmap
 
 ### Phase 1 — Foundation ✅
-- Repository setup
-- Project documentation
-- Development planning
+
+- Create project repository
+- Establish project documentation
+- Define development structure
+- Prepare technical foundation
 
 ### Phase 2 — Development 🚧
-- Core implementation
-- Testing environment
-- Feature improvements
+
+- Build core functionality
+- Improve smart contract architecture
+- Add testing framework
+- Optimize project performance
 
 ### Phase 3 — Expansion 🔥
-- Ecosystem growth
-- Community building
-- Future releases
+
+- Community growth
+- Ecosystem partnerships
+- Mainnet deployment
+- Continuous development
 
 ---
 
-## 🤝 Contributing
+## 📂 Repository Structure
 
-Contributions are welcome.
-
-1. Fork this repository
-2. Create your branch
-3. Submit your improvements
-
----
-
-## 📜 License
-
-MIT License
-
----
-
-## 👑 RXKING
-
-Create. Build. Innovate.
+```text
+rxking/
+├── README.md
+├── LICENSE
+├── CONTRIBUTING.md
+├── contracts/
+├── scripts/
+├── test/
+└── docs/
